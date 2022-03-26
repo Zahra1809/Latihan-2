@@ -1,0 +1,6 @@
+D:\Punya Zahra\Amikom\Semester 2\Pemrograman\Materi\03\Latihan 2\Latihan 2\bin\Debug\Latihan 2.exe.config
+D:\Punya Zahra\Amikom\Semester 2\Pemrograman\Materi\03\Latihan 2\Latihan 2\bin\Debug\Latihan 2.exe
+D:\Punya Zahra\Amikom\Semester 2\Pemrograman\Materi\03\Latihan 2\Latihan 2\bin\Debug\Latihan 2.pdb
+D:\Punya Zahra\Amikom\Semester 2\Pemrograman\Materi\03\Latihan 2\Latihan 2\obj\Debug\Latihan 2.csprojResolveAssemblyReference.cache
+D:\Punya Zahra\Amikom\Semester 2\Pemrograman\Materi\03\Latihan 2\Latihan 2\obj\Debug\Latihan 2.exe
+D:\Punya Zahra\Amikom\Semester 2\Pemrograman\Materi\03\Latihan 2\Latihan 2\obj\Debug\Latihan 2.pdb
